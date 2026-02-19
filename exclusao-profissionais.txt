@@ -1,0 +1,1 @@
+Essa funcionalidade será responsável por fazer a exclusão do profissional do banco de dados
